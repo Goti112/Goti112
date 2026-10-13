@@ -2,7 +2,7 @@
 
 Desarrollador **Full Stack Junior** en Barcelona. Construyo aplicaciones web con **React, TypeScript y Next.js**, y también trabajo con **Java, Node.js y PostgreSQL**.
 
-En mis prácticas en **Rohu Innovations** desarrollé un planificador de misiones de dron con mapa 2D (Mapbox GL), vista 3D (Cesium) y telemetría MAVLink.
+En mis prácticas desarrollé un planificador de misiones de dron con mapa 2D (Mapbox GL), vista 3D (Cesium) y telemetría MAVLink.
 
 🔭 Ahora construyo [**GitHub City**](https://city.miquelmanzano.com): convierte cualquier perfil de GitHub en una ciudad 3D.
 📚 Estudio DAM (Desarrollo de Aplicaciones Multiplataforma) · titulado en DAW

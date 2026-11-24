@@ -30,10 +30,6 @@ Estación de control para drones en el navegador: rutas en mapa 2D, vista 3D, te
 Espacio de trabajo auditable para el cumplimiento CBAM en importaciones.
 `Next.js` `TypeScript` `PostgreSQL` `Prisma`
 
-**[ReceiptFlow](https://github.com/Goti112/ticket_app)**
-App Android que digitaliza tickets con OCR y los agrupa en informes mensuales.
-`Flutter` `Dart` `ML Kit`
-
 <br>
 
 ### ◆ Stack

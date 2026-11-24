@@ -14,6 +14,10 @@ Construyo aplicaciones web de principio a fin: interfaces cuidadas, APIs sólida
 
 ### ◆ Proyectos
 
+**[Weft](https://github.com/Goti112/weft)** &nbsp;—&nbsp; [demo](https://goti112.github.io/weft/)
+Editor de texto colaborativo *local-first*: edita sin conexión y, al volver, todo se fusiona sin conflictos. CRDT (Fugue) escrito desde cero y servidor de sincronización propio.
+`TypeScript` `React` `CodeMirror` `Java` `Spring Boot` `WebSocket` `PostgreSQL`
+
 **[GitHub City](https://github.com/Goti112/github-city)** &nbsp;—&nbsp; [city.miquelmanzano.com](https://city.miquelmanzano.com)
 Cualquier perfil de GitHub convertido en una ciudad 3D navegable.
 `React` `Three.js` `TypeScript` `Vercel`
